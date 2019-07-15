@@ -1,0 +1,1 @@
+https://itnext.io/guide-react-app-monorepo-with-lerna-d932afb2e875
